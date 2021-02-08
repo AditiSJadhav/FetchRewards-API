@@ -1,0 +1,12 @@
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Model/UserAccount.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Service/FetchRewardsService.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Model/DeductPointsRequest.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Model/User.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Model/AddPointsRequest.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Repository/UserAccountDetailsRepository.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Controller/FetchRewardsController.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/FetchRewardsApiApplication.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Repository/UsersRepository.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Util/FetchRewardsUtil.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Model/Payer.java
+/Users/manva/Downloads/FetchRewards-API/src/main/java/com/fetchrewards/fetchrewardsapi/Util/PayerComparator.java
